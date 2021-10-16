@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding :0;
+    display :flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background : #ffffff;  
+}
+.box{
+    position: relative;
+    width : 300;
+    height: 300;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #000000;
+}
