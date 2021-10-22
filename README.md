@@ -1,3 +1,3 @@
 # FoodZap
 
-## Project for API Hacks 2021
+## Project for Hack this Fall 2.0
