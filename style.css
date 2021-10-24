@@ -1,12 +1,24 @@
 body{
-    margin: 0;
+    margin-right: 500px;
+    margin-left: 500px;
     padding :0;
-    display :flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     background : #ffffff;  
 }
+.logo{
+    margin-right: 165px;
+    margin-left: 165px;
+    height: 150px;
+    width: 150px;
+  justify-content: center;
+  margin-top: 200px;
+  border-radius : 25px;
+} 
+  .logo img {
+    display:block;
+  }
 .box{
     position: relative;
     width : 300;
